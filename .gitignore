@@ -1,0 +1,45 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+dist/
+
+# Ignore environment variables file
+.env
+
+# Ignore TypeScript build artifacts
+*.js
+*.js.map
+*.d.ts
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore logs
+logs/
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore build cache
+.nuxt/
+.next/
+out/
+
+# Ignore development server files
+dev-server/
+
+# Ignore production build files
+build/
+
+# Ignore IDE-specific files
+*.iml
+*.ipr
+*.iws
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Windows specific files
+Thumbs.db
